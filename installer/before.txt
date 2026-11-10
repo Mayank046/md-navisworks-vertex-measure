@@ -1,0 +1,11 @@
+MD Vertex Measure v1.0.0
+Author: MD (Mayank Dholariya)
+
+A panel + pick tool for Autodesk Navisworks Manage / Simulate 2017 to 2027 (64-bit).
+Shows E3D-like snap bubbles (center, ends, end quadrants, corners, face centers)
+on selected piping, structural steel and equipment so you can pick two bubbles
+and read the distance. Ships alongside other MD Navis tools.
+
+Needs Navisworks Manage or Simulate. Navisworks Freedom cannot load plugins.
+
+Please close Navisworks before continuing.
